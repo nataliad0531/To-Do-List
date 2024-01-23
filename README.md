@@ -1,1 +1,2 @@
-# To-Do-List
+# To-Do-List- Movie Watchlist 
+This program allows its users to edit and view their movie watchlist. You can add, remove one or all, mark a movie as watched, order alphabetically, and even find out how many movies are on the list. This program is in Python. While creating this program I encountered difficulty marking tasks as complete. In the future, I want to use Ascii art to create a more visually entertaining experience for users. 
